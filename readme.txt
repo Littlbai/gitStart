@@ -4,4 +4,4 @@ second line to update.
 modify in bugFix branch.......
 
 modify in master.
-modify in bugFix.
+insert 1 line in bugFix
